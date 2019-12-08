@@ -7,7 +7,7 @@ DiaryQuick. A simple diary application that can be used by multiple people
 1. Install dependencies
 
 ```bash
-npm install
+npm install express body-parser mongoose promise --save
 ```
 
 2. Run Server
